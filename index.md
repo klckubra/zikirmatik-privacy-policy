@@ -44,7 +44,11 @@ Uygulama şu izinleri kullanır:
 - **Bildirimler**: Arkaplan sayımı için bildirim göstermek
 - **Titreşim**: Sayım sırasında dokunsal geri bildirim
 - **Ön Plan Servisi**: Arkaplan sayımı için
-- **İnternet**: Reklamları göstermek için
+- **İnternet**: Reklamları göstermek ve gizlilik politikasını açmak için
+- **Ağ Durumu**: İnternet bağlantısını kontrol etmek için
+- **Cihaz Uyanık Tutma**: Arkaplan sayımının kesintisiz çalışması için
+
+Bu izinler yalnızca uygulamanın işlevselliği için kullanılır.
 
 ### 6. Veri Güvenliği
 Tüm uygulama verileri cihazınızda saklanır ve Android'in güvenlik mekanizmalarıyla korunur. Reklam verileri Google tarafından işlenir.
@@ -104,7 +108,11 @@ The app uses these permissions:
 - **Notifications**: To show notifications for background counting
 - **Vibration**: For haptic feedback during counting
 - **Foreground Service**: For background counting feature
-- **Internet**: To display ads
+- **Internet**: To display ads and open privacy policy
+- **Network State**: To check internet connection
+- **Wake Lock**: For uninterrupted background counting
+
+These permissions are only used for app functionality.
 
 ### 6. Data Security
 All app data is stored on your device and protected by Android's security mechanisms. Advertising data is processed by Google.
