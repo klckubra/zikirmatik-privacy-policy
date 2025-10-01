@@ -58,7 +58,7 @@ Google reklamlarını kişiselleştirmek veya devre dışı bırakmak için:
 Bu gizlilik politikası güncellenebilir. Değişiklikler bu sayfada yayınlanır.
 
 ### 9. İletişim
-Sorularınız için: kubraakilicc0@example.com
+Sorularınız için: <kubraakilicc0@example.com>
 
 ---
 
@@ -118,4 +118,4 @@ To personalize or disable Google ads:
 This privacy policy may be updated. Changes will be posted on this page.
 
 ### 9. Contact
-For questions: kubraakilicc0@example.com
+For questions: <kubraakilicc0@example.com>
