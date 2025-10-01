@@ -26,7 +26,7 @@ Uygulama, Google AdMob aracılığıyla reklam gösterir. AdMob şu verileri top
 - Reklam etkileşim verileri
 
 Bu veriler **Google'ın gizlilik politikasına** tabidir:
-https://policies.google.com/privacy
+<https://policies.google.com/privacy>
 
 ### 3. Veri Paylaşımı
 - **Uygulama verileri** (zikir sayıları, listeler, ayarlar): Hiçbir şekilde paylaşılmaz
@@ -86,7 +86,7 @@ The app displays ads through Google AdMob. AdMob may collect:
 - Ad interaction data
 
 This data is subject to **Google's Privacy Policy**:
-https://policies.google.com/privacy
+<https://policies.google.com/privacy>
 
 ### 3. Data Sharing
 - **App data** (dhikr counts, lists, settings): Never shared
